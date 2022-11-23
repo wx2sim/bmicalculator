@@ -22,7 +22,7 @@ this app contains 2 screens
 ![2](https://user-images.githubusercontent.com/71595632/203564739-bbb490ea-228d-4232-8317-b9379649dd45.png)
 
 
-PS : i didn't rally use the gender and the age in the bmi formula 
+PS : i didn't really use the gender and the age in the bmi formula 
 
 thats all .
 
